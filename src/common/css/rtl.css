@@ -136,7 +136,7 @@ body.layout-2 .main-content {
   padding-top: 107px;
   padding-right: 30px;
   padding-left: 0;
-  width: calc(100% - 200px); }
+  /* width: calc(100% - 200px); */ }
 
 body.layout-2 .main-sidebar .sidebar-menu li ul.dropdown-menu li a {
   padding-right: 34px;
@@ -156,7 +156,7 @@ body.sidebar-mini .main-content, body.sidebar-mini .main-footer {
 
 body.layout-2 .main-footer {
   margin-right: 230px;
-  width: calc(100% - 230px);
+  /* width: calc(100% - 230px); */
   padding-right: 20px; }
 
 .main-sidebar .sidebar-menu li {

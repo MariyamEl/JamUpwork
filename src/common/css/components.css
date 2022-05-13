@@ -724,7 +724,7 @@ tr:first-child > td > .fc-day-grid-event {
 	flex-wrap: wrap;
 }
 .ionicons li {
-	width: calc(100% / 8);
+	/* width: calc(100% / 8); */
 	font-size: 40px;
 	padding: 40px 20px;
 	list-style: none;
@@ -1394,7 +1394,7 @@ tr:first-child > td > .fc-day-grid-event {
 	padding-left: 15px;
 	padding-right: 15px;
 	margin-bottom: 25px;
-	width: calc(100% / 4);
+	/* width: calc(100% / 4); */
 }
 .icon-wrap .icon {
 	float: left;

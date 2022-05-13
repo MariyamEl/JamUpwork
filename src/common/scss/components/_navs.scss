@@ -75,8 +75,8 @@
 					position: absolute;
 					bottom: 0;
 					left: 0;
-					width: calc(#{$border-radius} * 2);
-					height: calc(#{$border-radius} * 2);
+					//width: calc(#{$border-radius} * 2);
+					//height: calc(#{$border-radius} * 2);
 					background: transparent;
 					border-radius: 50%;
 					box-shadow: -$border-radius $border-radius 0 $color-secondary;
@@ -88,8 +88,8 @@
 					position: absolute;
 					bottom: 0;
 					right: 0;
-					width: calc(#{$border-radius} * 2);
-					height: calc(#{$border-radius} * 2);
+					//width: calc(#{$border-radius} * 2);
+					//height: calc(#{$border-radius} * 2);
 					background: transparent;
 					border-radius: 50%;
 					box-shadow: $border-radius $border-radius 0 $color-secondary;
